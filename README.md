@@ -5,16 +5,14 @@
 - **Content:-** +1234 75346788
 - **Address:-** Marripall
 ### Education Details:-
-#### Post Graduation:-
+**Post Graduation:-**
 - **College:-** PVKN GOVT Clg 
 - **Address:-** Chittoor 
 ### Hobbies:- 
 - Reading Books
-- Learing newthings every day
-- Lessening Music
+- Lering newthings every day
+- listening Music
 ### Goal:-
 - Become a `software` engineer 
-### Project:-
-- Banking <br>
 
                            
