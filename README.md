@@ -6,8 +6,8 @@
 - **Address:-** Marripall
 ### Education Details:-
 **Post Graduation:-**
-- **College:-** PVKN GOVT Clg 
-- **Address:-** Chittoor 
+- **College:-** GOVT Clg 
+- **Address:-** Nellore 
 ### Hobbies:- 
 - Reading Books
 - Lering newthings every day
